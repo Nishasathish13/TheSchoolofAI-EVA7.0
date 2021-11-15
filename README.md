@@ -1,8 +1,8 @@
 # TheSchoolofAI-EVA7.0
-###This repository contains the notes and assignments of EVA (Extensive Vision AI Program - V7) Phase 1 from The School of AI.
-###In EVA7 we will look at multiples CV problems like object classification, object detection, segmentation, denoising, etc. 
+### This repository contains the notes and assignments of EVA (Extensive Vision AI Program - V7) Phase 1 from The School of AI.
+### In EVA7 we will look at multiples CV problems like object classification, object detection, segmentation, denoising, etc. 
 
-###Syllabus:
+### Syllabus:
 
 Background & Basics: Machine Learning Intuition
 Python: Python 101 for Machine Learning
